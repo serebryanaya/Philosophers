@@ -5,7 +5,7 @@ The project is about threads and forks, mutex and semaphores
 ## How to compile
 + Open folder `philo/` or `philo_bonus/`
 + To compile:
-  + `make`
+  + `make` or `make bonus`
 + To remove objects:
   + `make clean`
 + To remove objects and binary file (program):
